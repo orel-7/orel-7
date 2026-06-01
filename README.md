@@ -25,8 +25,6 @@ I'm a middle school student and an aspiring software engineer on a journey to be
 
 ---
 
-## 🌍 שפה / Language
-
 <details>
 <summary><b>💬 לחצו כאן לקריאה בעברית (Click to expand)</b></summary>
 <br />
