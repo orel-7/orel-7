@@ -1,5 +1,12 @@
-## Hi there 👋
+## abot me :)
+Hi, I'm Orel! 👋
+I'm a middle school student striving to become the best software engineer possible, with a basic knowledge of Python.
+I love working on hardware projects like Raspberry Pi, creating content with AI, and I'd love it if you took a look at my projects here!
 
+היי, אני אוראל! 👋
+אני תלמיד בחטיבת ביניים ושואף להיות מהנדס התוכנה הטוב ביותר, עם ידע בסיסי בפיטון.
+אני אוהב לעבוד על פרויקטי חומרה כמו רזברי פאי, ליצור דברים עם AI,ואשמח מאוד אם תסתכלו על הפרויקטים שלי כאן!
+⭐ **I'd love it if you took a look at my projects below! Feel free to explore my repositories.**
 <!--
 **orel-7/orel-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
